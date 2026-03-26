@@ -1,0 +1,30 @@
+body{font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin:0%
+}
+header{
+    background-color: hsl(333, 78%, 91%);
+    color: black;
+    padding: 25px;
+}
+section{
+    margin: 30px;
+}
+h2{
+    color: #ffc4e6;
+}
+.projeto{
+    background-color: #fad7f8 rgb(236,145, 250);
+    padding: 20px;
+    margin: 15px auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px #160a29;
+}
+footer{
+    background-color: #160a29;
+    color:#ffc4e6;
+    padding: 15px;
+    margin-top: 30px;
+}
